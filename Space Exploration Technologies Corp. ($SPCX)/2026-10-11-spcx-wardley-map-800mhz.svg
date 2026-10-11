@@ -1,0 +1,151 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1900" height="1130" viewBox="0 0 1900 1130" font-family="'Architects Daughter', 'Comic Sans MS', 'Segoe Print', cursive">
+<title>Wardley map - SpaceX 800 MHz spectrum and Starlink Mobile</title>
+<rect width="1900" height="1130" fill="#FFFFFF"/>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#555"/></marker></defs>
+<text x="110" y="48" font-size="30" fill="#111">SpaceX + 800 MHz spectrum: value chain of Starlink Mobile</text>
+<text x="110" y="76" font-size="16" fill="#555">Anchor: US mobile subscriber. Status as of 11 Oct 2026; 800 MHz deal pending FCC approval.</text>
+<image x="1790" y="10" width="70" height="70" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAkACQAAD/2wBDAAcFBQYFBAcGBQYIBwcIChELCgkJChUPEAwRGBUaGRgVGBcbHichGx0lHRcYIi4iJSgpKywrGiAvMy8qMicqKyr/2wBDAQcICAoJChQLCxQqHBgcKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKir/wgARCABGAEYDASIAAhEBAxEB/8QAGwABAAMBAQEBAAAAAAAAAAAAAAQFBgMBAgf/xAAaAQACAwEBAAAAAAAAAAAAAAAAAwECBAUG/9oADAMBAAIQAxAAAAGjhW9RzvYhVw9mPv40VwzHhArbb1FvUXQTOFWfGxh3Tub1w8blTSC9lvw7xmZP0DPSvHcyTWZTurdHCugAW91S2DubIyGtyVXAvYAAFp6XQESAAEEQ3//EACIQAAICAQQCAwEAAAAAAAAAAAMEAQIABRAUNREgBhMkFf/aAAgBAQABBQKQ/n9aDsW+09X6RHmQrm0wjn0tafk9XvETaU9NIk3f86rLV2bZPV4FUxxjHcxIWvpLLUDRpclybz1aS8NNoKfzhqVojrlyV0xFyebo+89WoM12dZKWKNvpEB585U5Kh3nq1rcPQAfq+Pe09XpzoIXZaUWS9htyAXPtnPtnPtnPtnPtnPtnPthSfbf/xAAlEQABAwIFBAMAAAAAAAAAAAABAgMRACEEEBITMSAiQVEycaH/2gAIAQMBAT8BaJMzmrFQsQJB85M+futSb34rEPlcJb4P74pjDBu6uch8F3im0uKGo310nCaYUD3Tm6klFhN6woPcYgE9G0g3itlv1Wy36rZb9UBAgV//xAAeEQABBAIDAQAAAAAAAAAAAAAAAQIQEhEhIDFBUf/aAAgBAgEBPwFZpqHGBjcbUc/MeoLjr4XzqU7H+cLKWUspZY//xAAxEAACAQICCAQEBwAAAAAAAAABAgMAEQQSECAhMTN0k7ETMkFRFBUiI0JhYnGRwfD/2gAIAQEABj8Caa+6TJbWyxqWY+g0vzA7HVsNprD4uYWUtYj1FT4holSx+1JaxfQ/MDsdSwFzUM8+UpexsfKal+a/cTxbx7dprbsRfInoo0PzA7HQ7xJcRi7UEjXMx3AVhZ5TsbzfprGGSUN8T5I6Gd2a2650vzA7GkhZ8mb1qRZiGDuADTxSHKNqqf33UseMy4iQOTGP7qLE/jiOV9R+YHY0vwylnX6qiliciKTbl9mFeNkEmIePLYjy6GiVrI+8e+o/MDsaeeLiStbN7VMjb4DmH+/nXfmB2NPhMbwm3H2p8LgCX8TzMdd4xGjXfN9a3rgYfoiuBh+iK4GH6IrgYfoiuBh+iK4GH6IrgYfoisxVV/JRav/EACMQAAIBAgYDAQEAAAAAAAAAAAERACExIEFRYYGRMHHw0aH/2gAIAQEAAT8hd68dQS/5iFLRAsmJYyRBBJCgBnLAimU7j04tdo3QYiQyUSwE1rYRwo+SJTictVmjiBj1SOAMBIqh4O0OOLWYgahJQuQ6MQtDzWXX7SWZJNFDASViNY8oYalPMGgY9x7BBPK78QQzIrQyJ89yzL6tD8O8JI2ndANoOTYL2A+2i+e3sYSKpcIpKB22EkSgt7A1+9wriddr+ASC2XvVQ9I47GGJ1gFQIsfAKKKKKKKd8kkx6E//2gAMAwEAAgADAAAAEF/vZPlPz3/gNu/vglvvvgQgggP/xAAiEQEAAQQCAgIDAAAAAAAAAAABEQAhMUFRYRBxIIGRofD/2gAIAQMBAT8QF4GP0eMUBMChzMR39al8Yf1griOXXvipVSKWJykHEF5plaVxYPRqdvhoxJLfixe9NRYkY0kAujc6pHKCS4Icgas/nynYAVDYRJ36qBOkAbOCbal+BfLmujXRro0AYK//xAAeEQACAgMBAAMAAAAAAAAAAAABEQAhEEFhMSBxof/aAAgBAgEBPxAQFkOTKI1zGn1GqvYFvUfm4ao8wdgcMSldQqJClkwLFVCFGyB8EU51nWdYS7M//8QAJBABAQACAQQDAAIDAAAAAAAAAREAITEgQVHwYXHBEIGRseH/2gAIAQEAAT8Q45x8jl1+knfqtPi7AVgfBikiRNJ46y59RBVTwB3cS+rAMERjloHxgkFcDqReSLTfJvU6i6Bhg6r4AxcDLZHzeTgU4U+8ivTopYBSacPAo65InYFxTojwQvOvHQXkOYQRF0PLBYeMmW0W173yejJciR2oylPDgzFwNkC/ivPEHeGf6FFbFdHQXWhGmlEgHlmFdvHRSxw1JvnCd6KIYSvFOXlxAkN7l3IK9j2FlxHxyrAQDXjmfbpLlBDFJY1XQdt+cQhKoiPsHyHfKg6myaNVJRWJthwZYMpKtwv8jkSp6c66S568BGkj/gEfOKlpK2n/ABR/ePjrLs5KILaUZs2CJw3EZRbtdxUKwkCAvf8AiZMmT+DH5QlQApd889u+e+fme+fme+fme+fme+fme+fme+fmLE4cGe/Bc//Z"/>
+<rect x="110" y="90" width="1700" height="790" fill="none" stroke="#999" stroke-width="1.5"/>
+<line x1="535.0" y1="90" x2="535.0" y2="880" stroke="#BBB" stroke-width="1.2" stroke-dasharray="6 6"/>
+<line x1="960.0" y1="90" x2="960.0" y2="880" stroke="#BBB" stroke-width="1.2" stroke-dasharray="6 6"/>
+<line x1="1385.0" y1="90" x2="1385.0" y2="880" stroke="#BBB" stroke-width="1.2" stroke-dasharray="6 6"/>
+<text transform="translate(30,485) rotate(-90)" text-anchor="middle" font-size="18" fill="#333">Value chain (visibility)</text>
+<text x="66" y="112" text-anchor="middle" font-size="13" fill="#666">visible</text>
+<text x="66" y="864" text-anchor="middle" font-size="13" fill="#666">invisible</text>
+<line x1="66" y1="846" x2="66" y2="124" stroke="#666" stroke-width="1.5" marker-end="url(#arr)"/>
+<ellipse cx="1504" cy="600" rx="15" ry="15" fill="none" stroke="#1565C0" stroke-width="2.5" stroke-dasharray="5 4"/>
+<line x1="1198" y1="125" x2="586" y2="205" stroke="#666" stroke-width="1.6"/>
+<line x1="1198" y1="125" x2="1198" y2="205" stroke="#666" stroke-width="1.6"/>
+<line x1="1198" y1="125" x2="1606" y2="205" stroke="#666" stroke-width="1.6"/>
+<line x1="586" y1="205" x2="654" y2="290" stroke="#666" stroke-width="1.6"/>
+<line x1="654" y1="290" x2="382" y2="370" stroke="#666" stroke-width="1.6"/>
+<line x1="654" y1="290" x2="790" y2="370" stroke="#666" stroke-width="1.6"/>
+<line x1="382" y1="370" x2="671" y2="480" stroke="#666" stroke-width="1.6"/>
+<line x1="790" y1="370" x2="671" y2="480" stroke="#666" stroke-width="1.6"/>
+<line x1="382" y1="370" x2="484" y2="480" stroke="#666" stroke-width="1.6"/>
+<line x1="790" y1="370" x2="484" y2="480" stroke="#666" stroke-width="1.6"/>
+<line x1="790" y1="370" x2="994" y2="480" stroke="#666" stroke-width="1.6"/>
+<line x1="1198" y1="205" x2="1198" y2="290" stroke="#666" stroke-width="1.6"/>
+<line x1="1198" y1="205" x2="1300" y2="370" stroke="#666" stroke-width="1.6"/>
+<line x1="1198" y1="290" x2="1198" y2="370" stroke="#666" stroke-width="1.6"/>
+<line x1="1300" y1="370" x2="1300" y2="450" stroke="#666" stroke-width="1.6"/>
+<line x1="1300" y1="450" x2="1300" y2="530" stroke="#666" stroke-width="1.6"/>
+<line x1="1606" y1="205" x2="1504" y2="290" stroke="#666" stroke-width="1.6"/>
+<line x1="1606" y1="205" x2="1606" y2="450" stroke="#666" stroke-width="1.6"/>
+<line x1="1606" y1="450" x2="1606" y2="540" stroke="#666" stroke-width="1.6"/>
+<line x1="1606" y1="540" x2="1606" y2="620" stroke="#666" stroke-width="1.6"/>
+<line x1="1606" y1="450" x2="1504" y2="600" stroke="#666" stroke-width="1.6"/>
+<line x1="1606" y1="450" x2="1504" y2="680" stroke="#666" stroke-width="1.6"/>
+<line x1="1606" y1="450" x2="1504" y2="760" stroke="#666" stroke-width="1.6"/>
+<line x1="1606" y1="450" x2="892" y2="700" stroke="#666" stroke-width="1.6"/>
+<line x1="892" y1="700" x2="1266" y2="790" stroke="#666" stroke-width="1.6"/>
+<circle cx="1198" cy="125" r="11" fill="#111" stroke="#111"/>
+<rect x="577" y="196" width="18" height="18" fill="#FFF" stroke="#111" stroke-width="2.5"/>
+<rect x="1189" y="196" width="18" height="18" fill="#FFF" stroke="#111" stroke-width="2.5"/>
+<rect x="1597" y="196" width="18" height="18" fill="#FFF" stroke="#111" stroke-width="2.5"/>
+<circle cx="654" cy="290" r="8" fill="#F9A825" stroke="#222" stroke-width="1.6"/>
+<circle cx="382" cy="370" r="8" fill="#F9A825" stroke="#222" stroke-width="1.6"/>
+<circle cx="790" cy="370" r="8" fill="#2E7D32" stroke="#222" stroke-width="1.6"/>
+<circle cx="671" cy="480" r="8" fill="#2E7D32" stroke="#222" stroke-width="1.6"/>
+<circle cx="484" cy="480" r="8" fill="#2E7D32" stroke="#222" stroke-width="1.6"/>
+<circle cx="994" cy="480" r="8" fill="#2E7D32" stroke="#222" stroke-width="1.6"/>
+<circle cx="1198" cy="290" r="8" fill="#F9A825" stroke="#222" stroke-width="1.6"/>
+<circle cx="1198" cy="370" r="8" fill="#6A1B9A" stroke="#222" stroke-width="1.6"/>
+<circle cx="1300" cy="370" r="8" fill="#C62828" stroke="#222" stroke-width="1.6"/>
+<circle cx="1300" cy="450" r="8" fill="#C62828" stroke="#222" stroke-width="1.6"/>
+<circle cx="1300" cy="530" r="8" fill="#6A1B9A" stroke="#222" stroke-width="1.6"/>
+<circle cx="1504" cy="290" r="8" fill="#2E7D32" stroke="#222" stroke-width="1.6"/>
+<circle cx="1606" cy="450" r="8" fill="#C62828" stroke="#222" stroke-width="1.6"/>
+<circle cx="1606" cy="540" r="8" fill="#6A1B9A" stroke="#222" stroke-width="1.6"/>
+<circle cx="1606" cy="620" r="8" fill="#6A1B9A" stroke="#222" stroke-width="1.6"/>
+<circle cx="1504" cy="600" r="8" fill="#1565C0" stroke="#222" stroke-width="1.6"/>
+<circle cx="1504" cy="680" r="8" fill="#2E7D32" stroke="#222" stroke-width="1.6"/>
+<circle cx="1504" cy="760" r="8" fill="#1565C0" stroke="#222" stroke-width="1.6"/>
+<circle cx="892" cy="700" r="8" fill="#F9A825" stroke="#222" stroke-width="1.6"/>
+<circle cx="1266" cy="790" r="8" fill="#2E7D32" stroke="#222" stroke-width="1.6"/>
+<text x="1198.0" y="105" text-anchor="middle" font-size="17" font-weight="bold" fill="#111">US mobile subscriber</text>
+<text x="572.0" y="206" text-anchor="end" font-size="17" font-weight="bold" fill="#111">Coverage everywhere</text>
+<text x="572.0" y="222" text-anchor="end" font-size="12"><tspan fill="#555">remote areas, dead zones</tspan></text>
+<text x="1184.0" y="206" text-anchor="end" font-size="17" font-weight="bold" fill="#111">Carrier relationship</text>
+<text x="1184.0" y="222" text-anchor="end" font-size="12"><tspan fill="#555">plan, billing, support</tspan></text>
+<text x="1620" y="206" text-anchor="start" font-size="17" font-weight="bold" fill="#111">Coverage indoors</text>
+<text x="1620" y="222" text-anchor="start" font-size="12"><tspan fill="#555">and in cities</tspan></text>
+<text x="666" y="269" text-anchor="start" font-size="15" font-weight="bold" fill="#111">D2C satellite service</text>
+<text x="666" y="285" text-anchor="start" font-size="12"><tspan fill="#555">via T-Mobile</tspan><tspan fill="#555"> | </tspan><tspan fill="#8D5B00" font-weight="bold">PARTIAL</tspan></text>
+<text x="370.0" y="349" text-anchor="end" font-size="15" font-weight="bold" fill="#111">Next-gen Starlink sats</text>
+<text x="370.0" y="365" text-anchor="end" font-size="12"><tspan fill="#555">15,000 approved</tspan><tspan fill="#555"> | </tspan><tspan fill="#8D5B00" font-weight="bold">PARTIAL</tspan></text>
+<text x="802" y="349" text-anchor="start" font-size="15" font-weight="bold" fill="#111">Current D2C sats</text>
+<text x="802" y="365" text-anchor="start" font-size="12"><tspan fill="#555">~10,200 in orbit</tspan><tspan fill="#555"> | </tspan><tspan fill="#1B5E20" font-weight="bold">HAVE</tspan></text>
+<text x="671.0" y="507" text-anchor="middle" font-size="15" font-weight="bold" fill="#111">Satellite manufacturing</text>
+<text x="671.0" y="523" text-anchor="middle" font-size="12"><tspan fill="#1B5E20" font-weight="bold">HAVE</tspan></text>
+<text x="484.0" y="507" text-anchor="middle" font-size="15" font-weight="bold" fill="#111">Launch</text>
+<text x="484.0" y="523" text-anchor="middle" font-size="12"><tspan fill="#555">Falcon / Starship</tspan><tspan fill="#555"> | </tspan><tspan fill="#1B5E20" font-weight="bold">HAVE</tspan></text>
+<text x="994.0" y="507" text-anchor="middle" font-size="15" font-weight="bold" fill="#111">Gateways, backhaul</text>
+<text x="994.0" y="523" text-anchor="middle" font-size="12"><tspan fill="#1B5E20" font-weight="bold">HAVE</tspan></text>
+<text x="1184.0" y="291" text-anchor="end" font-size="15" font-weight="bold" fill="#111">Retail, customer</text>
+<text x="1184.0" y="307" text-anchor="end" font-size="12"><tspan fill="#555">ownership</tspan><tspan fill="#555"> | </tspan><tspan fill="#8D5B00" font-weight="bold">PARTIAL</tspan></text>
+<text x="1184.0" y="371" text-anchor="end" font-size="15" font-weight="bold" fill="#111">Handset distribution</text>
+<text x="1184.0" y="387" text-anchor="end" font-size="12"><tspan fill="#555">and partners</tspan><tspan fill="#555"> | </tspan><tspan fill="#4A148C" font-weight="bold">RENT/ACQUIRE</tspan></text>
+<text x="1314" y="371" text-anchor="start" font-size="15" font-weight="bold" fill="#111">Billing and care</text>
+<text x="1314" y="387" text-anchor="start" font-size="12"><tspan fill="#555">subscriber mgmt</tspan><tspan fill="#555"> | </tspan><tspan fill="#B71C1C" font-weight="bold">BUILD</tspan></text>
+<text x="1286.0" y="451" text-anchor="end" font-size="15" font-weight="bold" fill="#111">Mobile core network</text>
+<text x="1286.0" y="467" text-anchor="end" font-size="12"><tspan fill="#555">SIM, auth, handover</tspan><tspan fill="#555"> | </tspan><tspan fill="#B71C1C" font-weight="bold">BUILD</tspan></text>
+<text x="1286.0" y="531" text-anchor="end" font-size="15" font-weight="bold" fill="#111">Voice, SMS, 911</text>
+<text x="1286.0" y="547" text-anchor="end" font-size="12"><tspan fill="#4A148C" font-weight="bold">RENT/ACQUIRE</tspan></text>
+<text x="1490.0" y="291" text-anchor="end" font-size="15" font-weight="bold" fill="#111">Phones support band</text>
+<text x="1490.0" y="307" text-anchor="end" font-size="12"><tspan fill="#555">already do</tspan><tspan fill="#555"> | </tspan><tspan fill="#1B5E20" font-weight="bold">HAVE</tspan></text>
+<text x="1620" y="451" text-anchor="start" font-size="15" font-weight="bold" fill="#111">Terrestrial RAN</text>
+<text x="1620" y="467" text-anchor="start" font-size="12"><tspan fill="#B71C1C" font-weight="bold">BUILD</tspan></text>
+<text x="1620" y="541" text-anchor="start" font-size="15" font-weight="bold" fill="#111">Macro towers</text>
+<text x="1620" y="557" text-anchor="start" font-size="12"><tspan fill="#555">dense urban</tspan><tspan fill="#555"> | </tspan><tspan fill="#4A148C" font-weight="bold">RENT/ACQUIRE</tspan></text>
+<text x="1620" y="621" text-anchor="start" font-size="15" font-weight="bold" fill="#111">Site acquisition</text>
+<text x="1620" y="637" text-anchor="start" font-size="12"><tspan fill="#555">hosts, permits</tspan><tspan fill="#555"> | </tspan><tspan fill="#4A148C" font-weight="bold">RENT/ACQUIRE</tspan></text>
+<text x="1490.0" y="601" text-anchor="end" font-size="15" font-weight="bold" fill="#111">800 MHz low-band</text>
+<text x="1490.0" y="617" text-anchor="end" font-size="12"><tspan fill="#555">14 MHz paired (NEW)</tspan><tspan fill="#555"> | </tspan><tspan fill="#0D47A1" font-weight="bold">PENDING</tspan></text>
+<text x="1490.0" y="681" text-anchor="end" font-size="15" font-weight="bold" fill="#111">2 GHz mid-band</text>
+<text x="1490.0" y="697" text-anchor="end" font-size="12"><tspan fill="#555">owned</tspan><tspan fill="#555"> | </tspan><tspan fill="#1B5E20" font-weight="bold">HAVE</tspan></text>
+<text x="1490.0" y="761" text-anchor="end" font-size="15" font-weight="bold" fill="#111">EchoStar 65 MHz</text>
+<text x="1490.0" y="777" text-anchor="end" font-size="12"><tspan fill="#555">closes 2027</tspan><tspan fill="#555"> | </tspan><tspan fill="#0D47A1" font-weight="bold">PENDING</tspan></text>
+<text x="878.0" y="701" text-anchor="end" font-size="15" font-weight="bold" fill="#111">Small cells on</text>
+<text x="878.0" y="717" text-anchor="end" font-size="12"><tspan fill="#555">Starlink dishes</tspan><tspan fill="#555"> | </tspan><tspan fill="#8D5B00" font-weight="bold">PARTIAL</tspan></text>
+<text x="1266.0" y="817" text-anchor="middle" font-size="15" font-weight="bold" fill="#111">Starlink broadband</text>
+<text x="1266.0" y="833" text-anchor="middle" font-size="12"><tspan fill="#555">backhaul</tspan><tspan fill="#555"> | </tspan><tspan fill="#1B5E20" font-weight="bold">HAVE</tspan></text>
+<text x="322.5" y="908" text-anchor="middle" font-size="19" fill="#000000" font-weight="bold">Genesis</text>
+<text x="322.5" y="932" text-anchor="middle" font-size="17" fill="#FF8000" >Novel</text>
+<text x="322.5" y="956" text-anchor="middle" font-size="17" fill="#67AB9F" >Unmodeled</text>
+<text x="322.5" y="980" text-anchor="middle" font-size="17" fill="#FF0080" >None</text>
+<text x="747.5" y="908" text-anchor="middle" font-size="19" fill="#000000" font-weight="bold">Custom</text>
+<text x="747.5" y="932" text-anchor="middle" font-size="17" fill="#FF8000" >Emerging</text>
+<text x="747.5" y="956" text-anchor="middle" font-size="17" fill="#67AB9F" >Divergent</text>
+<text x="747.5" y="980" text-anchor="middle" font-size="17" fill="#FF0080" >Theory</text>
+<text x="1172.5" y="908" text-anchor="middle" font-size="19" fill="#000000" font-weight="bold">Product/Rental</text>
+<text x="1172.5" y="932" text-anchor="middle" font-size="17" fill="#FF8000" >Good</text>
+<text x="1172.5" y="956" text-anchor="middle" font-size="17" fill="#67AB9F" >Convergent</text>
+<text x="1172.5" y="980" text-anchor="middle" font-size="17" fill="#FF0080" >Practice</text>
+<text x="1597.5" y="908" text-anchor="middle" font-size="19" fill="#000000" font-weight="bold">Commodity/Utility</text>
+<text x="1597.5" y="932" text-anchor="middle" font-size="17" fill="#FF8000" >Best</text>
+<text x="1597.5" y="956" text-anchor="middle" font-size="17" fill="#67AB9F" >Modelled</text>
+<text x="1597.5" y="980" text-anchor="middle" font-size="17" fill="#FF0080" >Expert</text>
+<text x="98" y="908" text-anchor="end" font-size="14" fill="#000000">Activity:</text>
+<text x="98" y="932" text-anchor="end" font-size="14" fill="#FF8000">Practice:</text>
+<text x="98" y="956" text-anchor="end" font-size="14" fill="#67AB9F">Data:</text>
+<text x="98" y="980" text-anchor="end" font-size="14" fill="#FF0080">Knowledge:</text>
+<text x="960" y="1014" text-anchor="middle" font-size="18" fill="#333">Evolution</text>
+<rect x="120" y="674" width="320" height="196" fill="#FFF" stroke="#CCC" stroke-width="1.2" rx="8"/>
+<text x="132" y="694" font-size="16" font-weight="bold" fill="#111">Legend</text>
+<circle cx="140" cy="715" r="8" fill="#2E7D32" stroke="#222" stroke-width="1.4"/>
+<text x="158" y="720" font-size="14" fill="#222">Owned and operating</text>
+<circle cx="140" cy="740" r="8" fill="#F9A825" stroke="#222" stroke-width="1.4"/>
+<text x="158" y="745" font-size="14" fill="#222">Exists, not at scale / not yet in service</text>
+<circle cx="140" cy="765" r="8" fill="#C62828" stroke="#222" stroke-width="1.4"/>
+<text x="158" y="770" font-size="14" fill="#222">Gap: SpaceX must build</text>
+<circle cx="140" cy="790" r="8" fill="#6A1B9A" stroke="#222" stroke-width="1.4"/>
+<text x="158" y="795" font-size="14" fill="#222">Gap: rent or acquire</text>
+<circle cx="140" cy="815" r="8" fill="#1565C0" stroke="#222" stroke-width="1.4"/>
+<text x="158" y="820" font-size="14" fill="#222">Deal agreed, awaiting close/approval</text>
+<rect x="132" y="831" width="16" height="16" fill="#FFF" stroke="#111" stroke-width="2.5"/>
+<text x="158" y="845" font-size="14" fill="#222">User need</text>
+<image x="1790" y="1038" width="70" height="70" xlink:href="data:image/jpeg;base64,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"/>
+<text x="1778" y="1080" text-anchor="end" font-size="16" fill="#333">MapasLLC</text>
+<text x="1778" y="1100" text-anchor="end" font-size="13" fill="#777">Wardley map, 11 Oct 2026. Sources: public reporting (see notes).</text>
+</svg>
